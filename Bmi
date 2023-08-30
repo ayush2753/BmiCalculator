@@ -4,4 +4,4 @@ function bmiCalculator(weight,height)
     return bmi;
 }
 
-bmiCalculator(75,1.8)
+bmiCalculator(75,1.8);
